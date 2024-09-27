@@ -17,6 +17,4 @@ Japonés:
 https://namelix.com/app/?keywords=first+job
 
 ### Competidores:
-[Firstjob](https://firstjob.me/)
-
-[The Hub](https://thehub.io/)
+[Firstjob](https://firstjob.me/) | [The Hub](https://thehub.io/)
