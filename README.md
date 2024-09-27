@@ -1,5 +1,6 @@
 ﻿# DAW--PlanDeEmpresa
-## Nombres:
+## Lluvia de ideas:
+### Nombres:
 Beginsel -> principio en africano
 
 der Antritt -> primer paso en alemán
