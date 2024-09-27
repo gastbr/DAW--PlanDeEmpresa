@@ -1,4 +1,4 @@
-### Empresa e iniciativa emprendedora
+#### Empresa e iniciativa emprendedora
 # Plan de empresa: Nowy
 ## Lluvia de ideas:
 ### Nombres:
@@ -15,3 +15,7 @@ Japonés:
 転機: Tenki (Punto de inflexión, cambio de rumbo)
 
 https://namelix.com/app/?keywords=first+job
+
+### Competidores:
+https://firstjob.me/
+https://thehub.io/
