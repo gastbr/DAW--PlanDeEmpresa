@@ -1,4 +1,5 @@
-﻿# DAW--PlanDeEmpresa
+### Empresa e iniciativa emprendedora
+# Plan de empresa: Nowy
 ## Lluvia de ideas:
 ### Nombres:
 Beginsel -> principio en africano
