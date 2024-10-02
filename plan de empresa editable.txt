@@ -1,0 +1,1095 @@
+
+CIFP MAJADA MARCIAL – PUERTO DEL ROSARIO
+CURSO 2024-2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAN DE LA EMPRESA
+
+(INCLUIR NOMBRE DE LA EMPRESA Y LOGO)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Autores: Miriam Guerra Guerra 
+Gastón Bermúdez Rochietti
+Fabio Acosta Fuentes 
+Linda Lovera Fernández
+Ciclo Formativo: Ciclo Superior Desarrollo de Aplicaciones Web
+Módulo: EMP
+
+(Importante: los párrafos escritos en color gris debemos de borrarlos en la presentación final del Plan de Empresa. Estos párrafos sólo sirven de ayuda y guía para la realización de este Plan, por lo que no hay que incluirlos en este proyecto).
+
+INTRODUCCIÓN.
+
+    • ¿Qué es un Plan de Empresa?
+
+El Plan de Empresa es una herramienta de trabajo para todas aquellas personas o colectivos que quieran poner en marcha una iniciativa empresarial.
+
+El plan de empresa, también denominado plan de negocio, proyecto empresarial, o estudio de viabilidad, es un documento escrito que identifica, describe y analiza una oportunidad de negocio, examina la viabilidad técnica, económica y financiera de la misma, y desarrolla todos los procedimientos y estrategias necesarias para convertir la citada oportunidad de negocio en un plan de empresa concreto.
+
+    • ¿Para qué sirve un Plan de Empresa?
+
+Internamente obliga a los promotores del proyecto a iniciar su aventura empresarial, con unos mínimos de coherencia, eficacia, rigor y posibilidades de éxito, estudiando todos los aspectos de viabilidad del mismo.
+
+Externamente, constituye nuestra mejor «tarjeta de presentación» y resulta útil a diversos niveles: 
+
+a. Obtener la financiación necesaria para lanzar el negocio. 
+b. Optar a posibles subvenciones de las administraciones públicas. 
+c. Encontrar socios o convencer a éstos del mérito del proyecto. 
+
+Es decir, nuestro proyecto empresarial debe recoger principalmente un modelo de negocio que demuestre que el emprendedor o emprendedores han meditado en profundidad los factores clave del éxito o el fracaso para su nueva empresa.
+
+    • Recomendaciones para la elaboración de un Plan de Empresa: 
+
+Las personas que tienen que leer un Plan de Empresa (entidades financieras, posibles socios, proveedores, etc.) normalmente disponen de poco tiempo para hacerlo, por ello, la parte principal del documento debe ser relativamente breve, del orden de 20 a 40 páginas como máximo. Además de ello, debemos de tener en cuenta los siguientes consejos:
+
+        ◦ Formato atractivo: presentación formal esmerada y elegante, apariencia profesional.
+
+        ◦ Claridad: la información y redacción ofrecida debe ser clara, concisa y verdadera.
+
+        ◦ Actual: el plan deber ser un documento que recoja información y datos recientes. 
+
+        ◦ Global: el plan de empresa abarcará todas las áreas de la actividad empresarial, con el fin de que el mismo sea completo. 
+
+        ◦ Lenguaje comprensible: se debe utilizar un lenguaje que sea fácil de entender y leer para todo tipo de público.  
+
+        ◦ Mecanografiar el original: no hay que presentar nunca nada escrito a mano.
+
+        ◦ Usar un tipo de letra legible y separar los párrafos con líneas en blanco.
+
+        ◦ Usar papel de calidad aceptable.
+
+PLAN DE EMPRESA
+
+ÍNDICE										          Págs.
+
+
+1.- DATOS BÁSICOS DEL PROYECTO......................................................... 4
+2.- PROMOTOR/ES DEL PROYECTO..................................................................
+3.- IDENTIFICACIÓN Y FORMA JURÍDICA DE LA EMPRESA..............................
+4.- TRÁMITES DE CONSTITUCIÓN Y PUESTA EN MARCHA................................
+5.- TRIBUTACIÓN....................................................................................
+
+6.-EL ENTORNO COMERCIAL/ESTUDIO DE MERCADO......................................
+6.1.- Los clientes.......................................................................................
+6.2.- Análisis de la competencia...................................................................
+6.3.- Publicidad y promoción de la empresa...................................................
+6.4.- Canales de distribución.......................................................................
+6.5.- Precio..............................................................................................
+6.6.- Análisis DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades)..........
+6.7.- Los proveedores................................................................................
+6.8.- La localización...................................................................................
+
+7.- EL PROCESO DE PRODUCCIÓN / PRESTACIÓN SERVICIO............................
+7.1-Descripción del producto o servicio..........................................................
+7.2-Plan de Producción/Previsión de ventas.....................................................
+7.3-Instalaciones necesarias.......................................................................
+
+8.-ORGANIZACIÓN Y RECURSOS HUMANOS..............................................
+          8.1.- Organigrama de la empresa..................................................................
+          8.2.- Necesidades de personal y perspectivas de crecimiento.............................
+          8.3.- Retribución del personal.......................................................................
+
+9.- INVERSIÓN Y FINANCIACIÓN.............................................................
+9.1.- Inversión y Gastos iniciales…....................................................................
+9.2.- Financiación inicial........................................................................................
+
+10.- PLAN ECONÓMICO – FINANCIERO............................................................
+10.1.- Amortizaciones (inmovilizado y préstamo)......................................................
+10.2.- Presupuesto de Tesorería.............................................................................
+10.3.- Cuenta de Resultados Previsional o Cuenta de Pérdidas y Ganancias..................
+10.4.- Balance de Situación...................................................................................
+
+11.- DOCUMENTACIÓN COMERCIAL.....................................................................
+
+	
+
+12.- MEDIO AMBIENTE Y PREVENCIÓN DE RIESGOS LABORALES..........
+12.1.- Medio Ambiente...............................................................................
+12.2.- Prevención de Riesgos Laborales.........................................................
+
+13.- REFLEXIONES FINALES SOBRE LA VIABILIDAD COMERCIAL, TÉCNICA Y ECONÓMICO-FINANCIERA DE LA EMPRESA...............................................................
+
+
+	
+Anexo: Mapas de situación de la empresa, planos del local, documentos de alta en la Seguridad Social, impuestos, etc..................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.- DATOS BÁSICOS DEL PROYECTO
+
+
+Presentación del proyecto empresarial
+
+
+
+
+
+
+
+
+
+Breve explicación de la actividad a desarrollar	Nuestro proyecto consiste en una web en la que los estudiantes de FP pueden encontrar sus primeras prácticas de empresa. Esta idea surge ante la necesidad propia de algunos miembros del equipo de encontrar sus primeras prácticas por su cuenta con la esperanza de tener más probabilidades de ser contratados. 
+Nuestros clientes serían las empresas principalmente. Y nuestros usuarios serían los estudiantes. Nuestro proyecto está desarrollado para los próximos 5 años, así que iríamos teniendo nuevos clientes a medida que se desarrolla la idea y se abren nuevas líneas de negocio. 
+Con esta idea hemos encontrado un pequeño nicho que ayuda a los estudiantes a encontrar prácticas de empresa ya que en buscadores genéricos es difícil encontrar ofertas destinadas a los recién graduados. También queremos motivar la iniciativa de los estudiantes a buscar por ellos mismos su primer trabajo y así romper barreras e inseguridades que surgen al respecto. 
+Los buscadores de trabajo son cada vez más específicos, pero hasta ahora ninguno está orientado completamente a los estudiantes.
+Nombre comercial de la empresa	Nowy.com
+Forma jurídica	
+Tipo de empresa: tamaño, sector eco., etc.	Servicios de ofertas laborales
+Ubicación de la empresa	Calle Camelleros, S/N – CIFP Majada Marcial, Puerto del Rosario. Las Palmas
+Fecha prevista de inicio	
+Número de socios	4
+Número de trabajadores	4
+
+
+Inversión necesaria 
+y financiación	Inversión total:
+	Financiación propia: (aportada por el/los promotores del proyecto)
+	Financiación ajena y subvenciones: (aportada por bancos, ayudas…)
+
+Los datos de la inversión necesaria y la financiación los obtendremos de los puntos 9.1 y 9.2 respectivamente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.- PROMOTOR/ES DEL PROYECTO
+
+Datos del promotor 1
+Nombre y apellidos	Miriam Guerra Guerra
+NIF	12345678A
+Fecha de nacimiento	26/09/2005
+Dirección	C/ Camelleros
+Correo electrónico	miriam@newy.com
+Teléfono	123456789
+Formación Académica
+
+	Doble grado en Administración y Dirección de Empresa y Finanzas y Contabilidad. Ciclo Superior de Formación Profesional en Desarrollo de Aplicaciones Web.
+Experiencia  profesional (año, lugar, tareas)
+	Asistente Técnico de Emprendimiento en ACH
+Otros	Emprendimiento en startup
+
+Datos del promotor 2
+Nombre y apellidos	Gastón Bermúdez Rochietti
+NIF	78945612V
+Fecha de nacimiento	16/02/1991
+Dirección	C/ Camelleros, s/n Puerto del Rosario
+Correo electrónico	gaston@newy.com
+Teléfono	698754258
+Formación Académica
+
+	Grado Superior en Desarrollo de Aplicaciones Web
+Experiencia  profesional (año, lugar, tareas)
+	Docencia
+Otros	Emprendimiento en startup
+
+
+Datos del promotor 3
+Nombre y apellidos	Fabio Acosta Fuentes
+NIF	98465154P
+Fecha de nacimiento	11/11/2000
+Dirección	C/ Camelleros
+Correo electrónico	fabio@newy.com
+Teléfono	684512595
+Formación Académica
+
+	Grado Superior en Desarrollo de Aplicaciones Web
+Experiencia  profesional (año, lugar, tareas)
+	
+Otros	Emprendimiento en startup
+
+
+
+
+
+Datos del promotor 4
+Nombre y apellidos	Linda Kate Lovera Fernández
+NIF	65498715P
+Fecha de nacimiento	16/08/1997
+Dirección	C/ Camelleros
+Correo electrónico	linda@nowy.com
+Teléfono	692956214
+Formación Académica
+
+	Grado Superior en Desarrollo de Aplicaciones Web
+Experiencia  profesional (año, lugar, tareas)
+	Emprendimiento en negocios propios
+Otros	Emprendimiento en startup
+
+    • Reflexión conjunta sobre las Virtudes y Carencias de los/las promotores/as. 
+Se ha de reflexionar, conjuntamente, sobre las características personales de todos/as los/las promotores/as. Algunas de estas características pueden ser:
+
+                • Motivación y seguridad en sí mismo.
+                • Afán de perfección.
+                • Capacidad de trabajo y concentración en el mismo.
+                • Elección de un riesgo moderado.
+                • Sentido especial para captar oportunidades de negocio.
+                • Optimismo en situaciones nuevas.
+                • Actitud hacia el dinero.
+                • Iniciativa y previsión en la gestión empresarial.
+                • Necesidad de obtener resultados.
+                • Personalidad con gusto por la organización y dirección de tareas.
+                • Capacidad innovadora.
+                • Habilidades: de organización, creatividad, liderazgo, competitivas…
+                • Actitudes: Ilusión, confianza, asumir riesgos, visión crítica…
+                • Conocimientos: técnicos, experiencia en el sector, gestión comercial…
+                • Si existen varios socios, ¿qué objetivos persiguen cada uno de ellos? Por ejemplo, quieren ser sus propios jefes, quieren crear su puesto de trabajo, etc.
+
+
+3.- IDENTIFICACIÓN Y FORMA JURÍDICA DE LA EMPRESA
+
+Antes de elegir una forma jurídica para iniciar tu actividad y constituirte como empresa debes responder a estas preguntas, reflexionando sobre las mismas:
+
+    • ¿Cuántas personas promotoras somos? 
+    • ¿Cuánto dinero tengo/tenemos para empezar la actividad?
+    • ¿Piensas mover grandes cantidades de dinero?
+    • ¿La actividad objeto del negocio implica mucho riesgo?
+    • ¿Cuánto beneficio anual esperas obtener?
+    • ¿Implica mucho riesgo su actividad empresarial?
+    • ¿Cuántos trabajadores piensan tener? ¿O no piensan contratar a nadie?
+    • Si son varios promotores, ¿todos aportan capital y trabajo?
+
+- Justificación de la forma jurídica elegida.
+       Explicación razonada de por qué hemos elegido nuestra forma jurídica.
+
+
+
+Identificación de la empresa
+Denominación de la empresa	
+Forma jurídica de la empresa	
+Razón social	
+CIF o NIF 	
+Objeto social	
+Capital social	
+Relación de socios (con Nombre y DNI)	
+Órganos de Administración	
+
+
+Características de la forma jurídica
+Forma jurídica de la empresa	
+Número mínimo de socios	
+Responsabilidad por deudas	
+Requisitos de constitución	
+Órganos directivos	
+Capital Social Mínimo	
+Obligaciones fiscales	
+Transmisión de la participación	
+Otros aspectos importantes: Seg. Social 	
+
+
+
+Ventajas e inconvenientes de la forma jurídica
+Ventajas	Inconvenientes
+    • 	    • 
+    • 	    • 
+    • 	    • 
+    • 	    • 
+
+
+
+
+4.-  TRÁMITES DE CONSTITUCIÓN Y PUESTA EN MARCHA
+
+    • Forma jurídica elegida:
+
+En función de la forma jurídica elegida indica los trámites necesarios para su constitución.
+
+
+Trámites de constitución
+Trámites	Organismo ante el que se tramita
+	
+	
+	
+
+
+
+Trámites de puesta en marcha
+Trámites	Organismo ante el que se tramita
+	
+	
+	
+	
+	
+
+
+Trámites específicos de puesta en marcha
+Trámites específicos	Organismo ante el que se tramita
+Por ejemplo para crear una empresa de instalaciones eléctricas se requiere:	
+    • Registro y calificación de empresas instaladoras de electricidad	
+    • Carné de instalador autorizado de electricidad	
+	
+
+
+
+5.- TRIBUTACIÓN.
+
+Impuestos a los que está sometida nuestra empresa
+Forma jurídica 
+de la empresa	Impuestos que inciden 
+sobre la empresa	Motivo o causa
+	ITP/AJD	
+IAE		
+IS/IRPF		
+IGIC		
+IBI		
+IVTM		
+
+
+6.- EL ENTORNO COMERCIAL/ ESTUDIO DE MERCADO
+
+El objetivo de este apartado es demostrar la viabilidad comercial del proyecto. Para ello es necesario determinar el ámbito geográfico, cuantificar el mercado potencial, agrupar el mercado en grupos homogéneos o segmentos con el mismo perfil de cliente, dividir los segmentos en subgrupos llamados nichos, seleccionar los nichos en los que nos interesa posicionarnos y calcular su demanda potencial y de ventas. Se analizarán las motivaciones y comportamientos de compra de los clientes y sus necesidades. Por último, se incluirá, en la medida de lo posible una reflexión sobre la evolución futura que se espera del mercado.
+
+Es preciso conocer cuál es la necesidad del consumidor que pretende satisfacer el producto o servicio; más aún, debería acotarse el tema añadiendo cuál es la necesidad que se pretende cubrir y que no es cubierta por otro producto o servicio. 
+
+Por ello, es necesario analizar qué hace el producto o servicio por el cliente, es decir:
+
+¿Qué necesidad personal resuelve nuestros productos y servicios?
+¿Por qué, en qué momento y dónde satisface esa necesidad?
+¿Cómo se satisface esa necesidad?
+¿Cuál es la dimensión del mercado? (Cifra de clientes reales y potenciales en un día, una semana, un mes y un año, aproximadamente)
+¿Es un mercado que se mantiene constante durante todo el año, o existen periodos con fuertes desequilibrios de ventas?
+¿Se trata de un mercado en que los nuevos productos quedan antiguos con gran rapidez?
+¿Cuál es la previsión futura del mercado: está subiendo, se mantiene o está bajando?
+¿Qué oportunidades y amenazas observa en el sector que pueden afectar a su proyecto empresarial?
+
+Una vez definido el mercado y su tamaño debes determinar qué parte del mismo puedes absorber.
+
+
+6.1.- Los clientes
+     
+Los negocios se realizan entre personas. Son ellas las que los hacen vivir y crecer si se les ofrece un producto o servicio que cubra necesidades insatisfechas. Para nuestro análisis es necesario responder a estas cuestiones:
+
+        a) El estudio de la población. Una vez escogido el lugar en que deseamos abrir la empresa, se analizarán los movimientos de población que se registran en la zona para obtener datos de la población fija y flotante que puede conformar la clientela. ¿Cuántas personas viven en el lugar donde instalaremos nuestro negocio? ¿Está recibiendo o perdiendo población? ¿Se trata de población joven, de mediana o avanzada edad?
+
+
+        b) ¿Quiénes son nuestros posibles clientes? Es decir, qué tipo de clientes podemos obtener, dividiéndolo en grupos diferenciados según sus características específicas: edad, sexo, poder económico, educación, personalidad, clase social, estilo de vida, comportamiento comprador, nacionalidad, población urbana o rural…
+
+
+        c) ¿Qué es lo que más valoran los clientes a la hora de adquirir un producto o demandar un servicio? ¿Qué es lo que más valoramos nosotros a la hora de comprar algo? ¿Qué van a exigir a nuestros productos y servicios?
+
+
+        d) Las motivaciones de compra de los clientes. ¿Qué buscan los clientes cuando consumen: el interés económico, la comodidad, la seguridad, la moda…? Explica cómo y cuándo toman sus decisiones de adquirir un producto, y dónde y cuánto compran.
+
+
+        e) Cuestionario para clientes. También puedes realizar pequeñas entrevistas a posibles clientes que te ayudarán a saber por qué compran y qué es lo que valoran de un producto o servicio. Algunas de las preguntas que puedes hacerles son: 
+
+    • ¿Cada cuánto tiempo consume… productos de belleza?
+    • ¿En dónde compra… productos de belleza?
+    • ¿Qué es lo que más valora a la hora de comprar?
+    • Etc.
+
+
+    f) Volumen de mercado en el que deseamos entrar. Estima aproximadamente el número de productos y/o servicios que puedes vender al año, dentro del área geográfica donde lo venderás. Ayúdate de esta tabla:
+
+
+Productos y/o
+servicios	Número de ventas (año)	Localidad 	Número de Clientes potenciales
+			
+			
+			
+			
+
+
+
+6.2.- Análisis de la competencia
+
+        a) ¿Quiénes son nuestra competencia? ¿dónde se localizan? ¿Qué venden? ¿A qué precio? ¿Quiénes son sus clientes? Etc.
+
+
+Empresas 
+(nombre y dirección)	
+Productos	
+Precio	Promociones y publicidad	Puntos fuertes	Puntos débiles
+					
+					
+					
+
+
+        b) ¿Qué ventajas e inconvenientes va a tener tu futura empresa frente a sus competidores?
+
+
+        c) ¿En qué aspectos es mejor nuestro producto y/o servicio que el suyo?
+
+
+6.3.- Publicidad y Promoción de la empresa. ¿Cómo voy a dar a conocer mi producto/servicio?
+
+        a) ¿Qué mensaje quieres transmitir? Por ejemplo: novedad, precio, uso...
+Además, diseña la publicidad que harías para darlo a conocer, para comunicar la próxima apertura del negocio, para promocionar un producto o servicio...
+cuñas, camisetas, calendarios, uniformes… Todo lo que se te ocurra para promocionarte.
+
+
+        b) ¿Qué medio crees que es el más adecuado para transmitir tu mensaje y que tus clientes acudan a tu empresa?
+
+Tipo de publicidad	Medio / Empresa	Importe anual
+Mailing/Buzoneo		
+Anuncios prensa		
+Radio		
+Otros (concretar)		
+
+        c) ¿Tendrá la empresa algún tipo de logotipo y/o imagen identificativa especialmente diseñado? Diséñalo.
+Indica qué pretendes mostrar con ese logotipo o imagen.
+
+
+        d) ¿Qué tipo de promociones podrías realizar para incrementar la venta?
+¿Podrías realizar alguna oferta en tus productos o servicios tales como “2x1” o 3x2”, o reducción de precios durante el periodo de rebajas, o que las compras en ciertos días de la semana (por ejemplo los miércoles) fueran más baratas que en los restantes días…? ¿Se te ocurre alguna otra forma de promoción?
+
+
+6.4.- Canales de distribución del producto/servicio
+
+    a) ¿Qué canal de distribución te asegura tener el producto/servicio disponible cuando el cliente lo desea comprar y donde desea comprarlo?
+
+Tipo de canal	Funcionamiento
+	
+
+	
+
+	
+
+
+6.5.- Precio
+
+    a) Política de precios.
+¿Cuál es el precio al que vas a vender tus productos o servicios? ¿Vas por encima, igual o por debajo de la competencia? Describe tu política de precios en términos de tarifas que vas a aplicar, si los precios serán uniformes o variarán según el tipo de cliente, qué descuentos están permitidos, cuál será el crédito a clientes, analiza los costes de fabricación o de prestación del servicio, así como los precios de mercado.
+
+    b) Métodos usados para determinar el precio. ¿Cuál es el método utilizado para fijar el precio: por el coste, por la competencia, lo que está dispuesto a pagar el cliente, etc.?
+
+    c) Margen de beneficios a obtener. ¿Cuál es el margen de beneficio por producto o servicio que esperas obtener? 
+
+
+
+Producto o servicio	Precio	Margen de beneficio (en %)
+		
+		
+		
+		
+		
+
+
+6.6.- Análisis DAFO 
+       (Debilidades, Amenazas, Fortalezas y Oportunidades del proyecto)
+
+	
+DEBILIDADES de la empresa	AMENAZAS del entorno
+Debemos de analizar puntos como:
+
+    • Incapacidad de financiar la empresa.
+    • Productos y servicios poco variados.
+    • Malas instalaciones.
+    • Poca rentabilidad.
+    • La competencia es mejor que nosotros
+    • ¿Por qué no tenemos más clientes?
+	Debemos de analizar puntos como:
+
+    • ¿Cuál es nuestra peor competencia?
+    • Entrada de nuevos competidores.
+    • Crecimiento lento del mercado.
+    • Nuestros proveedores tienen más poder de negociación sobre nosotros.
+    • ¿Qué nuevas tendencias pueden hacer que nuestros productos/servicios queden anticuados?
+
+FORTALEZAS de la empresa	OPORTUNIDADES del entorno
+Debemos de analizar puntos como:
+
+    • Buena financiación de la empresa.
+    • Buenos márgenes de ganancias.
+    • Buena imagen en los consumidores.
+    • Buena capacidad directiva.
+    • ¿Qué hacemos mejor que la competencia?
+	Debemos de analizar puntos como:
+
+    • Entrar en nuevos mercados, productos.
+    • Atender a grupos adicionales de clientes.
+    • Crecimiento rápido del mercado.
+    • Ampliar nuestra cartera de productos.
+    • ¿Qué cosas que necesitan los clientes no están haciendo nuestros competidores?
+
+
+
+6.7.- Los Proveedores
+
+
+        a) El aprovisionamiento. ¿A quién comprarás las mercancías o materias primas, que necesitas para el ejercicio de tu actividad?
+
+Proveedores	Mercancias o materias primas	Cantidades
+	Precios	Importes	Condiciones de pago
+
+					
+
+					
+
+					
+
+					
+
+        b) El almacenamiento. ¿Cómo vamos a almacenar los productos de la empresa?
+
+
+6.8.- La localización
+
+    a) La localización de la empresa.
+
+Decide y explica la localización geográfica en función de los siguientes criterios:
+
+    • Proximidad a los clientes.
+    • Proximidad a nuestros proveedores.
+    • Buenas comunicaciones, accesos, equipamientos…
+    • Disponibilidad de Recursos Humanos (trabajadores para la empresa).
+    • ...
+
+    b) Plano de la población donde se ubica la empresa. 
+
+Búscalo por “Google Maps”. Puedes buscar una calle concreta que te parece adecuada para tu negocio, incluir sus alrededores y señalar (dentro del mapa) si tienes competencia próxima para el negocio…
+
+Por ejemplo, plano de un negocio situado en la Avda. de la Trinidad, La Laguna, Tenerife.
+
+
+
+
+
+7.- EL PROCESO DE PRODUCCIÓN / PRESTACIÓN DE SERVICIO
+
+El Proceso de Producción tiene como objetivo describir el proceso fabricación del producto y/o de prestación del servicio, así como los recursos humanos, materiales y tecnológicos necesarios para el funcionamiento del mismo.
+
+7.1- Descripción del producto o servicio
+
+    a) Identifica los distintos productos o servicios que presta tu empresa. ¿Cuáles son los bienes y/o servicios prestados en tu empresa?
+
+PRODUCTOS/SERVICIOS 
+	Breve descripción de los mismos
+1.	
+2.	
+3.	
+4.	
+	
+
+
+7.2- Plan de Producción/Previsión de ventas
+
+Estas previsiones de ventas de productos y servicios aparecerán en el apartado Ventas del Plan de Tesorería
+
+    a) Previsión de venta de productos (unidades vendidas por precio unitario):
+
+
+Ejemplo de cálculo del Margen de ganancia. Si compra un producto a 150€ y lo vende a 200€, el margen se calcula como: (200-150)/150=0,33 por tanto, el margen tiene un valor del 33,3%
+
+    b) Previsión de venta de servicios (servicios vendidos por precio unitario):
+
+
+    c) Previsión de ventas totales de productos y servicios: 
+
+
+7.3- Instalaciones necesarias
+
+    a) El local de la empresa.
+ 
+Espacios del local	Metros2 aproximados 
+Espacio dedicado al público	
+Oficinas             	
+Servicios              	
+Almacén	
+Planta de producción	
+Otros:(detallar)	
+Total m2	
+
+Régimen de Propiedad
+Alquiler	Propiedad
+Importe mensual:	Coste:
+
+    b) Diseña el plano aproximado del local de la empresa. (Este apartado es opcional)
+
+
+Si lo deseas, toma como ejemplo el diseño de este local de una empresa inmobiliaria de 2 socias: Andrea y Lorena:
+
+
+
+
+
+
+Ejemplo de justificación de la distribución del local:
+
+    • El local donde vamos a instalar nuestra empresa dispone de 160 metros cuadrados distribuidos de la siguiente forma:
+
+    • Al lado de la entrada, hemos puesto la recepción en donde se recibirán  las visitas de los clientes y proveedores.
+
+    • A la derecha de la recepción hemos instalado una sala de exposiciones en la que mostraremos al público parte de nuestros garajes trasteros y locales
+
+
+
+
+    • Enfrente de la entrada van a ir dos mesas para mi compañera y otra para mi, en un principio íbamos a tener dos despachos independientes, pero finalmente decidimos que ya que nos dedicamos a lo  mismo estaría mejor tenernos cerca
+
+    • Además de esto, este magnífico  local  tiene una trastienda donde se encuentra el  baño. La trastienda la utilizaremos también para guardar la mayoría de los informes de la empresa.
+
+    • Por último, es un local muy amplio y luminoso, dispone de dos baños y tiene dos salidas de emergencia en caso de incendio.
+
+
+
+8- ORGANIZACIÓN Y RECURSOS HUMANOS
+
+8.1- Organigrama de la empresa
+Las empresas son organizaciones y, por tanto, deberán disponer de una estructura que les permita operar con la mayor eficiencia.
+En este primer apartado se recomienda diseñar gráficamente la estructura organizativa de la empresa. Lógicamente, el organigrama estará condicionado por diversos factores (el sector económico de la empresa, la propiedad de la empresa, la naturaleza del negocio (prestación de servicios/comercialización de productos o fabricación), el tamaño de la empresa, etc.)
+En el organigrama empresarial que presente el emprendedor: 
+    • Se determinarán los diferentes niveles jerárquicos que lo componen (directivos, mandos intermedios, operarios, etc.), 
+    • Se acotarán las diferentes áreas de actividad (ventas, producción, finanzas, etc.), 
+    • Se  ubicará cada uno de los puestos de trabajo que se consideren.
+    • Se señalarán las relaciones de dependencia jerárquica y funcional existentes entre los diferentes puestos.
+Ejemplo: 
+
+Por regla general, en las empresas de un tamaño reducido, los puestos o niveles directivos son desempeñados por la propiedad (o sea, por los propios emprendedores). También es habitual que en este tipo de empresas (la mayoría de PYMES) no exista una capa directiva de nivel medio (mandos intermedios), ya que no se considera oportuno ni eficiente dotar al nuevo negocio de una estructura desproporcionada (reduciéndolo sólo a personal directivo y personal administrativo y de operaciones).
+
+
+8.2- Necesidades de personal y perspectivas de crecimiento
+En caso de que la empresa necesite contratar trabajadores, detallar cuáles seria los puestos a ocupar, los tipos de contratos, el número de trabajadores necesarios y su jornada de laboral.
+
+Puesto de trabajo	Funciones a desempeñar	Tipo de contrato	Núm. de trabajadores	Horario de trabajo  
+(días y horas)
+				
+				
+
+8.3- Retribución del personal (socios y/o trabajadores)
+
+En este apartado se establecerán las necesidades de personal requeridas para cubrir cada uno de los puestos identificados y definidos anteriormente.
+
+Número de trabajadores/socios	Salario mensual
+	S.S mensual a cargo de la empresa (30% o RETA)	Coste salarial mensual
+			
+			
+			
+
+
+9.- INVERSIÓN Y FINANCIACIÓN:
+
+En este apartado vas a calcular la inversión y gastos y la financiación iniciales necesarias para la puesta en marcha de la iniciativa empresarial. De esta forma podrás conocer las necesidades de financiación externa para completar tus recursos propios.
+
+9.1.-Inversión y gastos iniciales
+
+La inversión inicial debe de incluir adquisiciones tales como locales, maquinaria, vehículos, herramientas, mobiliario, equipos informáticos, etc. así comino las existencias iniciales para el inicio de la actividad, y la liquidez inicial necesaria para el día a día.
+
+        a) Las inversiones y gastos necesarias para poner en marcha nuestra empresa son:
+
+Inversiones y Gastos Iniciales	Totales
+Inversiones materiales	
+Edificios y locales (si compras local)	
+Instalaciones (acondicionamiento del local)	
+Maquinaria y herramientas 	
+Elementos de transporte (vehículos, motos…)	
+Mobiliario y equipamiento	
+Equipos informáticos (ordenadores)	
+Inversiones inmateriales	
+Aplicaciones informáticas (programas)	
+     Fianzas o depósitos (si alquilas local)	
+Gastos de constitución y puesta en marcha	
+Asesoría (abogado)/ Estudios de viabilidad	
+Notario/ Registro Mercantil/…	
+Campañas de lanzamiento (publicidad inicial)	
+Licencias	
+Existencias iniciales (stock para iniciar actividad)	
+Mercancías	
+Materias primas	
+Dinero 	
+Dinero en caja para el funcionamiento diario	
+Dinero en Bancos para hacer frente a imprevistos	
+TOTAL INVERSIONES Y GASTOS INICIALES	
+
+
+9.2.-Financiación inicial
+
+    a) La financiación inicial necesaria para poner en marcha nuestra empresa es:
+
+        ◦ Puedes obtener información sobre ella en La Cámara de Comercio de tu ciudad y en los Ayuntamientos.
+
+
+    b) Los recursos de la empresa. 
+
+Señala los recursos propios de los que dispones para comenzar tu proyecto. Describe cuáles son tus necesidades de préstamos y créditos en función de lo previsto en el proyecto de inversión financiera. Describe las garantías o avales de los que podrías disponer en caso de que te los soliciten las entidades bancarias, entes públicos, etc. Describe las posibles ayudas a las que podría tener acceso en función de sus circunstancias personales, tipo de ayudas, importes a solicitar, etc.
+
+10.- PLAN ECONÓMICO Y FINANCIERO
+
+Este capítulo tiene como objetivo analizar la viabilidad económica y financiera del negocio durante el periodo de planificación. Normalmente, el periodo de planificación estará comprendido entre 1 y 5 años. (Nosotros nos limitaremos a realizarlo para un año). Para ello, hemos realizado un Plan de Inversiones detallando los activos y un Plan de Financiación con las fuentes de recursos propios o ajenos necesarios para realizar las inversiones.
+
+Además, hemos realizado una previsión de Ingresos con las ventas de productos y de servicios propios de la actividad empresarial, así como de otros ingresos extraordinarios. Asimismo, se ha elaborado una previsión de Gastos que recoge las compras de materias primas y componentes, el aprovisionamiento de suministros, los gastos de personal, los impuestos y los gastos generales.
+
+
+
+
+
+
+10.1-Amortizaciones
+
+    a) Amortización del Inmovilizado:
+
+ 
+
+Elemento	Valor de adquisición	Coeficiente lineal de
+amortización en %	Cuota de Amortización anual
+Edificios y locales		3%	
+Maquinaria y herramientas		12%	
+Mobiliario		10%	
+Equipos informáticos y aplicaciones		26%	
+Acondicionamiento instalaciones		10%	
+Vehículo		16%	
+TOTAL AMORTIZACIONES	
+
+Los bienes del “Activo no corriente” (tales como vehículos, mobiliario, equipos informáticos…) sufren unas pérdidas de valor con el paso del tiempo. Para compensar estas pérdidas hay que realizar unos ajustes en su valor, son las llamadas amortizaciones. Para el cálculo aproximado de estas amortizaciones tendremos en cuenta unas tablas oficiales de amortización que existen, acogiéndonos al llamado Coeficiente Lineal Máximo, que varía en función del bien. 
+
+    b) Amortización del Préstamo:
+
+(Para rellenar este apartado es aconsejable dirigirse a las entidades financieras para pedir información sobre los préstamos que ofrecen y obtener un cuadro de amortización orientativo o bien utilizar algún simulador de los que proporciona internet).
+
+Datos básicos del préstamo
+Capital	
+Tipo de interés anual	
+Plazo de amortización	
+Entidad Financiera	
+
+Supuesto práctico de amortización de un préstamo de 16.000 € a devolver en 5 años, y con un interés anual fijo del 7%.
+
+
+Datos de amortización del préstamo
+
+PLAZO
+(meses/años)	
+INTERESES (a)
+	Capital devuelto (b)
+AMORTIZACIÓN	Cuota (a+b)
+MENSUALIDAD	Total devuelto	Capital pendiente
+(SALDO VIVO)
+1	1.120	2.783	3.903	2.783	13.217
+2	925	2.977	3.902	5.760	10.240
+3	716	3.185	3.901	8.845	7.055
+4	493	3.408	3.901	12.353	3.647
+5	255	3.647	3.902	16.000	0
+
+
+10.2.-Presupuesto de Tesorería 
+
+- Elaboración del Presupuesto de Tesorería para el primer año de vida de la empresa.
+
+ 	Enero	Feb.	Marzo	Abril	Mayo	Junio	Julio	Ago	Sept.	Oct.	Nov.	Dic.	TOTAL
+ENTRADAS DE DINERO	 	 	 	 	 	 	 	 	 	 	 	 	 
+Aportaciones de los socios	 	 	 	 	 	 	 	 	 	 	 	 	 
+Préstamos	 	 	 	 	 	 	 	 	 	 	 	 	 
+Subvenciones													
+Ventas previstas													
+Otros ingresos	 	 	 	 	 	 	 	 	 	 	 	 	 
+Total Entradas (COBROS)	 	 	 	 	 	 	 	 	 	 	 	 	 
+	 	 	 	 	 	 	 	 	 	 	 	 	 
+SALIDAS DE DINERO	 	 	 	 	 	 	 	 	 	 	 	 	 
+Inversiones materiales	 	 	 	 	 	 	 	 	 	 	 	 	 
+Inversiones inmateriales													
+Gastos de constitución y puesta...													
+Compra previstas													
+Alquileres	 	 	 	 	 	 	 	 	 	 	 	 	 
+Publicidad	 	 	 	 	 	 	 	 	 	 	 	 	 
+Suministros (agua, luz, tfno…	 	 	 	 	 	 	 	 	 	 	 	 	 
+Salarios de trabajadores	 	 	 	 	 	 	 	 	 	 	 	 	 
+Seguridad Social 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Devolución -préstamo e intereses	 	 	 	 	 	 	 	 	 	 	 	 	 
+Impuestos/tasas (basura…	 	 	 	 	 	 	 	 	 	 	 	 	 
+Mantenimiento y reparaciones													
+Gastos de transportes													
+Seguros	 	 	 	 	 	 	 	 	 	 	 	 	 
+Otras gastos	 	 	 	 	 	 	 	 	 	 	 	 	 
+Total Salidas (PAGOS)	 	 	 	 	 	 	 	 	 	 	 	 	 
+	 	 	 	 	 	 	 	 	 	 	 	 	 
+ (Entradas – Salidas)													
+SALDO													
+
+- Es importante comprobar que no nos falte dinero en ningún mes.
+
+10.3.- Cuenta de Resultados Previsional o Cuenta de Pérdidas y Ganancias
+
+- Elaboración de la Cuenta de Resultados para el primer año de vida de la empresa.
+
+Cuenta de Pérdidas y Ganancias
+	2015
+INGRESOS de explotación
+(Son las operaciones de ingresos habituales a las que se dedica la empresa)	
+    • Ventas previstas	
+    • 	
+GASTOS de explotación
+(Son los gastos habituales de la empresa)	
+    • Compras previstas	
+    • Alquileres	
+    • Publicidad	
+    • Suministros (agua-luz-teléfono…)	
+    • Salarios de los trabajadores	
+    • Seguridad Social	
+    • Intereses préstamo	
+    • Impuestos y tasas (basura-vado…)	
+    • Mantenimiento y reparaciones	
+    • Gastos de transporte	
+    • Seguros	
+    • Gastos de constitución y puesta en marcha	
+    • Amortizaciones	
+    • 	
+ Resultado de Explotación antes de impuestos
+Es la diferencia entre los ingresos y los gastos de explotación	
+   - Impuesto sobre el beneficio (28%, 20%,....)
+Esta cantidad se resta para hallar el resultado final del ejercicio	
+RESULTADO FINAL DEL EJERCICIO	
+
+
+    • La cifra de las ventas de explotación se obtendrán del apartado Ventas previstas del Plan de Tesorería.
+
+    • La cifra de los gastos de explotación se obtendrá sumando los correspondientes gastos en las Salidas de dinero del Plan de Tesorería.
+
+    • Las amortizaciones salen de las aplicadas al inmovilizado según la tabla.
+
+    • De la Cuenta de Resultados (Pérdidas y Ganancias) sacaremos la conclusión de si los resultados son positivos o no. Para ello hallaremos el porcentaje que supone el beneficio sobre las ventas. Ejemplo de cómo analizarlos resultados: si el total de ventas previstas para el primer año es de 125.400€, y los beneficios antes de los impuestos ascienden a 34.278€, esto supone un 27,33% sobre las ventas.
+
+% sobre ventas= (34.278x100)/125.400= 27,33%
+
+    • Para el cálculo del Impuesto sobre Beneficios, por ejemplo si se trata de una Sociedad Limitada o Anónima, aplicaremos un 28% sobre la cifra del Resultado antes de Impuestos.
+
+10.4.-Balance de Situación
+
+El Balance refleja la situación patrimonial de la empresa en un momento determinado. Está compuesto por el activo o recursos que tiene la empresa para producir (bienes y derechos) y el pasivo o fuentes de financiación de los recursos. Tras el primer año de existencia de la empresa, su Balance es el siguiente:
+
+
+BALANCE DE SITUACIÓN
+
+ACTIVO
+	
+PATRIMONIO NETO Y PASIVO
+Activo no corriente 	Patrimonio Neto 
+Edificios y locales		Capital social invertido	
+Maquinaria y herramientas		Subvenciones, ayudas	
+Elementos de transporte		Pérdidas y ganancias (antes de impuestos)	
+Mobiliario y equipamiento		    	
+Equipos informáticos		    	
+Aplicaciones informáticas		 Pasivo no corriente 
+Fianzas y depósitos		Préstamos a l/p	
+Amortizaciones (-)			
+Activo corriente 		 Pasivo corriente 
+Mercancías		 Deudas con Proveedores a c/p	
+Dinero en caja			
+Dinero en bancos			
+			
+TOTAL SUMA ACTIVO		TOTAL SUMA PASIVO	
+
+
+
+Activo:
+
+    • Activo no corriente.
+
+    • Inmuebles, elementos de transporte, mobiliario…: es la cifra de las inversiones que hemos realizado en bienes para nuestra empresa.
+    • Amortizaciones: su cifra está en el Cuadro de amortización del inmovilizado. Irá con signo negativo, luego, restará.
+
+    • Activo corriente.
+
+    • Mercancías: es un dato difícil de calcular, por ello lo calcularemos aproximadamente.
+    • Dinero: es la cifra total final resultante del apartado Saldo, del Plan de Tesorería. Podemos “repartir” ese dinero entre Bancos y Caja.
+
+
+Patrimonio Neto y Pasivo:
+
+    • Patrimonio Neto.
+
+    • Capital Social invertido: es el capital propio que han invertido el/los promotor/es.
+    • Pérdidas y ganancias: es la cifra del Resultado antes de Impuestos de la Cuenta de Pérdidas y Ganancias
+    • Subvenciones, ayudas…: es el capital que nos han concedido las administraciones públicas como Ayuntamientos, Cabildo, CCAA, etc.
+
+    • Pasivo no corriente. Préstamos a (l/p): probablemente hayamos solicitado un préstamo a una entidad bancaria. Aquí situaremos el capital pendiente de devolver tras lo amortizado el primer año. Su cifra está en el cuadro de los Datos de amortización del préstamo.
+
+    • Pasivo corriente. Deudas con proveedores a (c/p)
+
+
+Del Balance de Situación sacaremos información acerca de la situación de la empresa:
+
+    a) Si la empresa obtuvo ganancias o pérdidas
+ACTIVO TOTAL  >  PASIVO TOTAL    ganancias
+PASIVO TOTAL  > ACTIVO TOTAL    pérdidas 
+    b) Si la empresa es solvente o lo que es lo mismo si está lejos de la quiebra.
+ACTIVO TOTAL > PASIVO NO CORRIENTE + PASIVO CORRIENTE
+    c) Si la empresa tiene liquidez o lo que es lo mismo está lejos de la suspensión de pagos.
+ACTIVO CORRIENTE  > PASIVO CORRIENTE
+
+
+11.- DOCUMENTACIÓN COMERCIAL
+
+Elabora la siguiente documentación comercial de la empresa constituida. 
+
+    1. Personaliza el pedido, el albarán y la factura según los datos de tu empresa (nombre comercial o razón social, CIF/NIF, domicilio, teléfono, correo electrónico...)
+
+12.- MEDIO AMBIENTE Y PREVENCIÓN DE RIESGOS LABORALES     
+
+Como ocurre en el día a día de las empresas, pueden darse distintos tipos de eventos fortuitos que puedan interrumpir las actividades de la empresa: uso de productos peligrosos para el medio ambiente, materias primas y stocks que puedan ser destruidos, las máquinas pueden sufrir averías, o los empleados sufrir accidentes laborales o domésticos. Para prevenir semejantes problemas, habrá que contratar un seguro o invertir en la prevención de accidentes y daño al medio ambiente.
+
+
+12.1.-Medio Ambiente
+
+Comenta si vas a crear un sistema de gestión medio ambiental en la empresa. 
+
+
+12.2.-Prevención de Riesgos Laborales
+
+Comenta si vas a elaborar un Plan de Prevención de Riesgos Laborales. 
+
+¿Conoces las normas de prevención y seguridad laboral que se precisan para la actividad de tu empresa?
+
+¿Se exigen medidas obligatorias de seguridad e higiene para la empresa?
+
+¿Vamos a contratar algún seguro que cubra estas posibles responsabilidades? En caso afirmativo, ¿a cuánto asciende su coste?
+
+
+13.- REFLEXIONES FINALES SOBRE LA VIABILIDAD COMERCIAL, TÉCNICA Y ECONÓMICO FINANCIERA DE LA EMPRESA
+
+Una vez que hayas realizado todos los apartados anteriores, redacta contestando a las siguientes preguntas:
+
+    • ¿Existe necesidad real en el mercado respecto al producto o servicio que ofrecemos? ¿Por qué?
+
+
+    • ¿Hay clientes que lo demandan? ¿Por qué? ¿Qué tipo de clientes?
+
+
+    • ¿Contamos con recursos suficientes para poner en marcha la empresa?
+
+
+    • ¿Qué conclusiones obtenemos del presupuesto de tesorería y de la cuenta de resultados previsional?
+
+
+    • ¿Es viable económicamente nuestra idea de negocio? ¿Por qué?
+
+
+
+
+
+
+
+
+
+
+
+
+PÁGINAS WEB DE INTERÉS PARA CONSULTA
+
+        ◦ http://www.ine.es. Instituto Nacional de Estadística.
+
+        ◦ http://www.camarafuerteventura.org/. Cámara de comercio de Fuerteventura.
+
+        ◦ http://www.camaralaspalmas.org/. Cámara de comercio de Las Palmas.
+
+        ◦ http://www.empleo.gob.es/ Ministerio de Empleo y Seguridad Social. Toda la información de interés en cuestiones laborales y de seguridad social.
+
+        ◦ http://www.seg-social.es/. Página de la Seguridad Social.
+
+        ◦ http://www.aeat.es. Agencia Tributaria.
+
+        ◦ http://www.rmc.es. Búsqueda de información del Registro Mercantil Central.
+
+        ◦ 	http://www.ipyme.org. Servicio de información para la creación de empresas, datos sobre ayudas y subvenciones, etc.
+
+        ◦ http://www.ico.es. Información sobre las condiciones de préstamo a un tipo de interés favorable.
+
+        ◦ http://www.bde.es.  Banco de España.
+
+        ◦ http://www.minhac.es.  Ministerio de Economía y Hacienda.
+
+        ◦ http://www.paginas-amarillas.es. Búsqueda de información de empresas.
+
+        ◦ 	http://www.cis.es. Centro de investigaciones sociológicas, información sobre encuestas a los consumidores.
+
+        ◦ http://www.admiweb.com. Información sobre las administraciones públicas.
+
+        ◦ http://www.zonafinanciera.com. Búsqueda de información de mercados, bolsas, noticias...
+
+        ◦ http://www.infoempleo.com. Búsqueda de información sobre el mercado laboral.
+
+        ◦ http://www.lexnova.es. Búsqueda de información sobre legislación.
+
+        ◦ http://www.pymesyautonomos.com/. Interesante página para Pymes y Autónomos.
+
+        ◦ http://www.guia.ceei.es/index.asp. Buena página sobre creación de empresas.
+
+        ◦ http://www.crear-empresas.com/. Gran página sobre cómo se crea una empresa.
+
+        ◦ http://www.gobiernodecanarias.org/istac/. Página del Instituto Canario de Estadística.
+
+
+
+
