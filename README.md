@@ -1,5 +1,6 @@
 #### Empresa e iniciativa emprendedora
 # Plan de empresa: Nowy
+![Logo](https://github.com/gastbr/DAW--PlanDeEmpresa/blob/main/logos/1.png)
 ## Lluvia de ideas:
 ### Nombres:
 Beginsel -> principio en africano || der Antritt -> primer paso en alemán || nowy -> nuevo en polaco 
