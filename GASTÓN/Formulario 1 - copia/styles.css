@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: rgba(255, 255, 255, 0.8);
+  background-color: #2c3e50; /* Color de fondo más oscuro */
+}
+
+.container {
+  height: 200vh;
+  background-image: url(https://images.unsplash.com/photo-1538137524007-21e48fa42f3f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ac9fa0975bd2ebad7afd906c5a3a15ab&auto=format&fit=crop&w=1834&q=80);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.modal {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background: rgba(44, 62, 80, 0.9); /* Fondo más oscuro */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: 0.4s;
+  border-radius: 15px 15px 0 0; /* Bordes redondeados */
+}
+
+.modal-container {
+  display: flex;
+  max-width: 720px;
+  width: 100%;
+  border-radius: 15px; /* Bordes redondeados */
+  overflow: hidden;
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  transition-duration: 0.3s;
+  background: #34495e; /* Fondo de modal */
+  transform: translateY(100px) scale(0.4);
+}
+
+.modal-title {
+  font-size: 28px; /* Tamaño de fuente aumentado */
+  margin: 0;
+  font-weight: 600;
+  color: #ecf0f1; /* Color claro para el título */
+}
+
+.modal-desc {
+  margin: 6px 0 30px 0;
+  color: #bdc3c7; /* Color más suave para la descripción */
+}
+
+.modal-left {
+  padding: 60px 30px 20px;
+  background: #34495e; /* Color de fondo de la izquierda */
+  flex: 1.5;
+  transition-duration: 0.5s;
+  transform: translateY(80px);
+  opacity: 0;
+}
+
+.modal-button {
+  color: #ecf0f1; /* Color del texto de los botones */
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  padding: 12px 40px; /* Aumentado el padding */
+  border-radius: 30px;
+  background: #e67e22; /* Color de fondo vibrante */
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+.modal-button:hover {
+  background: #d35400; /* Color al pasar el ratón */
+}
+
+.modal-right {
+  flex: 2;
+  font-size: 0;
+  transition: 0.3s;
+  overflow: hidden;
+}
+
+.modal-right img {
+  width: 100%;
+  height: 100%;
+  transform: scale(1.1); /* Ajuste de escala */
+  object-fit: cover;
+  transition-duration: 1.2s;
+}
+
+.modal.is-open {
+  height: 100%;
+  background: rgba(44, 62, 80, 0.95);
+}
+
+.modal.is-open .modal-button {
+  opacity: 0;
+}
+
+.modal.is-open .modal-container {
+  opacity: 1;
+  transition-duration: 0.6s;
+  pointer-events: auto;
+  transform: translateY(0) scale(1);
+}
+
+.modal.is-open .modal-right img {
+  transform: scale(1);
+}
+
+.modal.is-open .modal-left {
+  transform: translateY(0);
+  opacity: 1;
+  transition-delay: 0.1s;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-buttons a {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 14px;
+}
+
+.sign-up {
+  margin: 60px 0 0;
+  font-size: 14px;
+  text-align: center;
+}
+
+.sign-up a {
+  color: #e67e22;
+}
+
+.input-button {
+  padding: 10px 16px;
+  outline: none;
+  border: 0;
+  color: #fff;
+  border-radius: 30px; /* Bordes redondeados */
+  background: #e67e22; /* Color del botón */
+  font-family: "Poppins", sans-serif;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.input-button:hover {
+  background: #d35400; /* Color al pasar el ratón */
+}
+
+.input-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+  color: #e67e22; /* Color de las etiquetas */
+  transition: 0.3s;
+}
+
+.input-block {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid #bdc3c7; /* Color del borde */
+  border-radius: 8px; /* Bordes más redondeados */
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+
+.input-block input {
+  outline: 0;
+  border: 0;
+  padding: 8px 0;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  color: #34495e; /* Color de texto del input */
+}
+
+.input-block input::placeholder {
+  color: #95a5a6; /* Color del placeholder */
+  opacity: 1;
+}
+
+.input-block:focus-within {
+  border-color: #e67e22; /* Color del borde al enfocar */
+}
+
+.input-block:focus-within .input-label {
+  color: #d35400; /* Color de la etiqueta al enfocar */
+}
+
+.icon-button {
+  outline: 0;
+  position: absolute;
+  right: 10px;
+  top: 12px;
+  width: 32px;
+  height: 32px;
+  border: 0;
+  background: transparent; /* Fondo transparente */
+  padding: 0;
+  cursor: pointer;
+}
+
+.scroll-down {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: #e67e22; /* Color vibrante */
+  font-size: 32px;
+  font-weight: 800;
+  transform: translate(-50%, -50%);
+}
+
+.scroll-down svg {
+  margin-top: 16px;
+  width: 52px;
+  fill: currentColor;
+}
+
+@media(max-width: 750px) {
+  .modal-container {
+    width: 90%;
+  }
+  
+  .modal-right {
+    display: none;
+  }
+}
